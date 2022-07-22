@@ -1,0 +1,28 @@
+{
+  "name": "javier",
+  "version": "1.0.0",
+  "description": "final proyect for database course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javier-C0L/ProjectBD.git"
+  },
+  "author": "javier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javier-C0L/ProjectBD/issues"
+  },
+  "homepage": "https://github.com/Javier-C0L/ProjectBD#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.19"
+  }
+}
